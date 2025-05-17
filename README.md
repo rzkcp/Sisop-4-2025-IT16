@@ -45,3 +45,7 @@ Template untuk compile file maimai.c
 ```
 gcc -Wall -o <nama outputan filenya> <nama_file kode program utama>.c `pkg-config fuse --cflags --libs` -lssl -lcrypto -lz
 ```
+
+### Struktur Repo ###
+[1t](https://github.com/rzkcp/Sisop-4-2025-IT16/blob/f955550d9008dcad0d881a92feb4ae89703e7a0b/assets/ss_1.png)
+
