@@ -1,0 +1,25 @@
+version: '3.8'
+
+services:
+  antink-server:
+    build: .
+    privileged: true
+    volumes:
+      - ./it24_host:/it24_host:rw
+      - ./antink_logs:/antink_logs:rw
+      - antink_mount:/antink_mount:rshared
+      - /var/log:/var/log:rw
+    command: ["-f", "/antink_mount", "-s", "-o", "allow_other"]
+    restart: unless-stopped
+
+  antink-logger:
+    image: debian:latest
+    volumes:
+      - ./antink_logs:/antink_logs:ro
+      - /var/log:/var/log:ro
+    command: ["tail", "-f", "/var/log/it24.log"]
+    restart: unless-stopped
+
+volumes:
+  antink_mount:
+    driver: local
