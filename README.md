@@ -49,7 +49,7 @@ gcc -Wall -o <nama outputan filenya> <nama_file kode program utama>.c `pkg-confi
 ### Struktur Repo ###
 ![1t](https://github.com/rzkcp/Sisop-4-2025-IT16/blob/f955550d9008dcad0d881a92feb4ae89703e7a0b/assets/ss_1.png)
 
-1[1t](https://github.com/rzkcp/Sisop-4-2025-IT16/blob/0619c3ff36e5222b649f63cb5f3afc5b8a236f05/assets/ss_2.png)
+![1t](https://github.com/rzkcp/Sisop-4-2025-IT16/blob/0619c3ff36e5222b649f63cb5f3afc5b8a236f05/assets/ss_2.png)
 -Struktur repo untuk fuse_dir & chiho
 ### Pengerjaan ###
 
