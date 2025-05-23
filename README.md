@@ -39,11 +39,15 @@ gcc hexed.c -o hexed
 
 Dalam soal ini praktikan diminta untuk  membuat sebuah sistem file virtual menggunakan FUSE yang dapat menyatukan file pecahan menjadi satu file utuh dan file Baymax.jpeg dapat dibaca, ditampilkan, dan disalin dan dicatat dalam activity.log.
 
-![Screenshot 2025-05-23 234139](https://github.com/user-attachments/assets/8c31ce47-9293-402b-8358-319e49ae7262)
 
+![Screenshot 2025-05-24 000050](https://github.com/user-attachments/assets/65652902-fa3c-4f32-883c-471874bc9008)
+Buat direktori mount_dir dan sertakan folder relics berisi part2 baymax. Setelah itu compile dan jalankan fungsi mount dengan ./baymax mount_dir. Di dalam folder mount_dir terdapat file hasil gabungan part2 sebelumnya dari folder relics dan apabila dibaca dan menampilkan seperti ini
 
+![Screenshot 2025-05-24 000058](https://github.com/user-attachments/assets/9da6f454-74df-4d23-b5ff-a0d195f6a08a)
+//tampilan Baymax.jpeg
 
-
+![Screenshot 2025-05-24 000227](https://github.com/user-attachments/assets/4a5c69af-7cdd-48ba-9167-419463737578)
+File Baymax.jpeg dapat dicopy ke folder lain
 
 ### Soal_4 ###
 Dalam soal ini intinya praktikan diminta untuk membuat kode program yang menggunakan konsep fuse file system(filesystem in userspace)
