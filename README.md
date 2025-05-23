@@ -7,8 +7,8 @@
 | Mochammad Atha Tajuddin   | 5027241093  |
 | Tiara Fatimah Azzahra   | 5027241090  |
 ---
-
-
+### Soal_1 ###
+Dalam soal ini intinya praktikan diminta untuk mencari arti dari te
 ### Soal_4 ###
 Dalam soal ini intinya praktikan diminta untuk membuat kode program yang menggunakan konsep fuse file system(filesystem in userspace)
 
