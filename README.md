@@ -1,4 +1,4 @@
-![Screenshot 2025-05-24 000050](https://github.com/user-attachments/assets/a8cf522b-ffb9-4889-8991-69f3d37b46cb)# LAPORAN PRAKTIKUM MODUL-4 #
+# LAPORAN PRAKTIKUM MODUL-4 #
 ## Praktikum Sistem Operasi Kelompok IT16 ##
 
 | Nama | NRP       |
