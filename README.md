@@ -10,6 +10,10 @@
 ### Soal_1 ###
 Dalam soal ini intinya kita diminta mengubah file teks yang berisi string hexadecimal menjadi file gambar (image) menggunakan bahasa C, mencatat proses konversinya ke dalam log file, dan memastikan hasilnya tersimpan rapi dalam struktur direktori tertentu.
 
+1. langkah pertama kita perlu mendowload serta Pastikan file zip terhapus setelah proses unzip.
+``` 
+wget -q --show-progress --no-check-certificate "https://drive.google.com/uc?export=download&id=1hi_GDdP51Kn2JJMw02WmCOxuc3qrXzh5" -O anomali.zip
+```
 
 ### Soal_4 ###
 Dalam soal ini intinya praktikan diminta untuk membuat kode program yang menggunakan konsep fuse file system(filesystem in userspace)
