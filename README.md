@@ -23,7 +23,7 @@ unzip -q anomali.zip -d anomali
 rm anomali.zip
 ```
 
-2. langkah kedua disini saya menggunakan nano untuk membuat kode c++ dimana akan dilakukan konversi HEX ke PNG dan log
+2. langkah kedua disini saya menggunakan nano untuk membuat kode C dimana akan dilakukan konversi HEX ke PNG dan log
 
 3. lalu akan kita compile dan jalankan kode tersebut 
 ```
