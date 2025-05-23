@@ -1,4 +1,4 @@
-# LAPORAN PRAKTIKUM MODUL-4 #
+![Screenshot 2025-05-24 000050](https://github.com/user-attachments/assets/a8cf522b-ffb9-4889-8991-69f3d37b46cb)# LAPORAN PRAKTIKUM MODUL-4 #
 ## Praktikum Sistem Operasi Kelompok IT16 ##
 
 | Nama | NRP       |
@@ -34,6 +34,15 @@ gcc hexed.c -o hexed
 
 ![UBUNTU 24 04 2  Running  - Oracle VirtualBox 23_05_2025 22_51_20](https://github.com/user-attachments/assets/37141c4f-4bcb-4a97-957a-ba29409abefa)
 ![UBUNTU 24 04 2  Running  - Oracle VirtualBox 23_05_2025 22_51_40](https://github.com/user-attachments/assets/cc31ea9d-bdbf-4519-baff-f5d456e8acd4)
+
+### Soal_2 ###
+
+Dalam soal ini praktikan diminta untuk  membuat sebuah sistem file virtual menggunakan FUSE yang dapat menyatukan file pecahan menjadi satu file utuh dan file Baymax.jpeg dapat dibaca, ditampilkan, dan disalin dan dicatat dalam activity.log.
+
+![Screenshot 2025-05-23 234139](https://github.com/user-attachments/assets/8c31ce47-9293-402b-8358-319e49ae7262)
+
+
+
 
 
 ### Soal_4 ###
