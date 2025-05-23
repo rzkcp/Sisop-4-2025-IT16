@@ -41,13 +41,25 @@ Dalam soal ini praktikan diminta untuk  membuat sebuah sistem file virtual mengg
 
 
 ![Screenshot 2025-05-24 000050](https://github.com/user-attachments/assets/65652902-fa3c-4f32-883c-471874bc9008)
+
 Buat direktori mount_dir dan sertakan folder relics berisi part2 baymax. Setelah itu compile dan jalankan fungsi mount dengan ./baymax mount_dir. Di dalam folder mount_dir terdapat file hasil gabungan part2 sebelumnya dari folder relics dan apabila dibaca dan menampilkan seperti ini
 
 ![Screenshot 2025-05-24 000058](https://github.com/user-attachments/assets/9da6f454-74df-4d23-b5ff-a0d195f6a08a)
-//tampilan Baymax.jpeg
+
+*tampilan Baymax.jpeg
 
 ![Screenshot 2025-05-24 000227](https://github.com/user-attachments/assets/4a5c69af-7cdd-48ba-9167-419463737578)
-File Baymax.jpeg dapat dicopy ke folder lain
+
+![Screenshot 2025-05-24 004928](https://github.com/user-attachments/assets/560bd216-95b5-4692-86bb-8eaf61b500e7)
+
+File Baymax.jpeg dapat dicopy ke folder lain dan juga dihapus
+
+* untuk subsoaal c,d,e belum berhasil dijalankan
+
+### Soal_3 ###
+
+Pada soal ini praktikan diminta untuk membuat sistem pendeteksi file berbahaya pakai Docker + FUSE. Sistem ini jalan dalam container antink-server dan log-nya dimonitor real-time oleh antink-logger. File yang mengandung kata "nafis" atau "kimcun" akan namanya dibalik dan dilog sebagai peringatan. Isi file teks biasa harus dienkripsi ROT13 saat dibaca, tapi file berbahaya dibaca apa adanya. Semua aktivitas dicatat di log /var/log/it24.log.
+
 
 ### Soal_4 ###
 Dalam soal ini intinya praktikan diminta untuk membuat kode program yang menggunakan konsep fuse file system(filesystem in userspace)
