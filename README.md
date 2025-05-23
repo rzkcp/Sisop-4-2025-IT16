@@ -15,6 +15,27 @@ Dalam soal ini intinya kita diminta mengubah file teks yang berisi string hexade
 wget -q --show-progress --no-check-certificate "https://drive.google.com/uc?export=download&id=1hi_GDdP51Kn2JJMw02WmCOxuc3qrXzh5" -O anomali.zip
 ```
 
+```
+unzip -q anomali.zip -d anomali
+```
+
+```
+rm anomali.zip
+```
+
+2. langkah kedua disini saya menggunakan nano untuk membuat kode c++ dimana akan dilakukan konversi HEX ke PNG dan log
+
+3. lalu akan kita compile dan jalankan kode tersebut 
+```
+gcc hexed.c -o hexed
+./hexed
+```
+4. Setelah dijalankan jangan lupa kita perlu install tree jadi outputnya akan seperti digambar ini 
+
+![UBUNTU 24 04 2  Running  - Oracle VirtualBox 23_05_2025 22_51_20](https://github.com/user-attachments/assets/37141c4f-4bcb-4a97-957a-ba29409abefa)
+![UBUNTU 24 04 2  Running  - Oracle VirtualBox 23_05_2025 22_51_40](https://github.com/user-attachments/assets/cc31ea9d-bdbf-4519-baff-f5d456e8acd4)
+
+
 ### Soal_4 ###
 Dalam soal ini intinya praktikan diminta untuk membuat kode program yang menggunakan konsep fuse file system(filesystem in userspace)
 
