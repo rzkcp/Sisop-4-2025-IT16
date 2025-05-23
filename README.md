@@ -60,6 +60,11 @@ File Baymax.jpeg dapat dicopy ke folder lain dan juga dihapus
 
 Pada soal ini praktikan diminta untuk membuat sistem pendeteksi file berbahaya pakai Docker + FUSE. Sistem ini jalan dalam container antink-server dan log-nya dimonitor real-time oleh antink-logger. File yang mengandung kata "nafis" atau "kimcun" akan namanya dibalik dan dilog sebagai peringatan. Isi file teks biasa harus dienkripsi ROT13 saat dibaca, tapi file berbahaya dibaca apa adanya. Semua aktivitas dicatat di log /var/log/it24.log.
 
+![Screenshot 2025-05-24 010153](https://github.com/user-attachments/assets/68b4a126-8d81-4c1e-bf5d-cc81a890c590)
+
+
+* masih belum bisa
+
 
 ### Soal_4 ###
 Dalam soal ini intinya praktikan diminta untuk membuat kode program yang menggunakan konsep fuse file system(filesystem in userspace)
