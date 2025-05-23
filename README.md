@@ -8,7 +8,9 @@
 | Tiara Fatimah Azzahra   | 5027241090  |
 ---
 ### Soal_1 ###
-Dalam soal ini intinya praktikan diminta untuk mencari arti dari te
+Dalam soal ini intinya kita diminta mengubah file teks yang berisi string hexadecimal menjadi file gambar (image) menggunakan bahasa C, mencatat proses konversinya ke dalam log file, dan memastikan hasilnya tersimpan rapi dalam struktur direktori tertentu.
+
+
 ### Soal_4 ###
 Dalam soal ini intinya praktikan diminta untuk membuat kode program yang menggunakan konsep fuse file system(filesystem in userspace)
 
